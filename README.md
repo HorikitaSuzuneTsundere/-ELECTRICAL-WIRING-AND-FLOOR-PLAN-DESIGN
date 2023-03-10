@@ -1,6 +1,8 @@
 # -ELECTRICAL-WIRING-AND-FLOOR-PLAN-DESIGN
 From Blueprint to Reality: Mastering Electrical Wiring and Floor Plan Design for Your Dream Home
 
+![image](https://user-images.githubusercontent.com/80136683/224237608-5dc2577b-abfc-445a-8617-4a1fea8d31b2.png)
+
 Electrical wiring design is the process of planning and specifying the placement of electrical components within a building. This includes outlets, switches, lighting fixtures, and other electrical equipment. The goal of electrical wiring design is to create a safe and efficient electrical system that meets the needs of the building's occupants.
 
 Electrical wiring design must take into account a variety of factors, including the building's size and layout, the expected power consumption, and the type of electrical equipment to be used. The design must also comply with local building codes and safety regulations, such as wire size, circuit breaker rating, and grounding requirements.
